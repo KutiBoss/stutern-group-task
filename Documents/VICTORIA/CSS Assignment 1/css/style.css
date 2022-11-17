@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+}
+.first_div{
+    border-width: 2px;
+    border-color: rgb(197, 117, 12);
+    border-radius: 8px;
+    border-style: solid;
+    padding: 5px;
+    margin: 20px;
+    width: 50%;
+    box-sizing: border-box;
+}
+p{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+}
+h3{
+    font-size: 18px;
+}
+.colour_one{
+    color: green;
+}
+.colour_two{
+    color: red;
+}
+.colour_three{
+    color: blue;
+}
